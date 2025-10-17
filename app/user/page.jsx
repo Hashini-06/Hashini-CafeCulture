@@ -47,7 +47,7 @@ export default function User() {
       }}
     >
       <img
-        src="/assests/User.jpg"
+        src="public/assests/User.jpg"
         alt="User"
         style={{ width: "150px", margin: "0 auto 20px" }}
       />

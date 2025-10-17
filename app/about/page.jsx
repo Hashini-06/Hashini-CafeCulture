@@ -13,7 +13,7 @@ export default function About() {
       <h1 style={{ color: "blue", marginBottom: "20px" }}>About Cafe Culture</h1>
 
       <img
-        src="/assests/About.jpg"
+        src="public/assests/About.jpg"
         alt="Cafe Culture"
         style={{
           width: "300px",

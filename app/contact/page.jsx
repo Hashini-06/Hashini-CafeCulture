@@ -12,7 +12,7 @@ export default function Contact() {
     >
       <h1 style={{ color: "blue" }}>Contact Us</h1>
       <img
-        src="/assests/Contact.jpg"
+        src="public/assests/Contact.jpg"
         alt="Contact"
         style={{
           display: "block",
